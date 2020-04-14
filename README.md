@@ -19,4 +19,6 @@ The dataset was divided into train, validation and test set beforhand to ensure 
 
 The model was selected while training which had the highest val_accuracy.
 
+### Sample output of the test-set images
 
+![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output.png)
