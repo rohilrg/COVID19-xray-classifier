@@ -10,7 +10,7 @@ The preprocessing and cleaning of images/labels was done to ensure data in corre
 
 ## Training of model
 Different models were trained like VGG16, Autoencoder classifier and InceptionV3. In the end InceptionV3 produced the best results.
-### Note
+### Note:
 To tackle the high imblance of data, different class weights were used.
 
 ## Evalutation and results
@@ -19,8 +19,13 @@ The dataset was divided into train, validation and test set beforhand to ensure 
 
 The model was selected while training which had the highest val_accuracy.
 
-### Sample output of the test-set images
+### Sample output of the test-set images:
 
 ![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output.png)
 ![COVID-19 Negative patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output2.png)
 ![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output_3.png)
+
+### Confusion matrix for test-set images
+
+![Confusion Matrix non-norm](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/Confusion_matrix_nonnor.png)
+![Confusion Matrix norm](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/Confusion_matrix_nor.png.png)
