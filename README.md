@@ -12,3 +12,11 @@ The preprocessing and cleaning of images/labels was done to ensure data in corre
 Different models were trained like VGG16, Autoencoder classifier and InceptionV3. In the end InceptionV3 produced the best results.
 ### Note
 To tackle the high imblance of data, different class weights were used.
+
+## Evalutation and results
+
+The dataset was divided into train, validation and test set beforhand to ensure the sanity of further process. 
+
+The model was selected while training which had the highest val_accuracy.
+
+
