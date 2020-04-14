@@ -29,3 +29,7 @@ The model was selected while training which had the highest val_accuracy.
 
 ![Confusion Matrix non-norm](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/Confusion_matrix_nonnor.png)
 ![Confusion Matrix norm](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/Confusion_matrix_nor.png.png)
+
+### Classification report of the trained model on test-set images
+
+![Classification Report](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/classification_report.png)
