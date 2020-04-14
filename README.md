@@ -38,4 +38,13 @@ The model was selected while training which had the highest val_accuracy.
 
 ![ROC curve](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/roc_curve.png)
 
-#
+# Conclusion
+
+The InceptionV3 model with modified head converged to classifiy the prositive and the negative cases of COVID19 with 99% accuracy, 97% recall (macro avg) and 91% precision (macro avg).
+
+# Further work
+
+The model can be further improved with more COVID19 positive cases for training.
+
+# Note:
+This work was inspired from the work of Hanan Gani work at: https://github.com/hananshafi/covid19-detection
