@@ -33,3 +33,8 @@ The model was selected while training which had the highest val_accuracy.
 ### Classification report of the trained model on test-set images
 
 ![Classification Report](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/classification_report.png)
+
+### ROC curve 
+
+![ROC curve](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/roc_curve.png)
+
