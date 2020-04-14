@@ -1,5 +1,5 @@
 # COVID19-xray-classifier
-A classifier that takes X-RAY or CT-SCAN to classify it COVID19 or OTHERS (normal or other pneumonia cases).
+A classifier that takes X-RAY or CT-SCAN to classify positive or negative COVID19 with 99% accuracy, 97% recall (macro avg) and 91% precision (macro avg).
 
 ## Data Preparation
 The data for training the model was gathered from two sources:
@@ -38,3 +38,4 @@ The model was selected while training which had the highest val_accuracy.
 
 ![ROC curve](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/roc_curve.png)
 
+#
