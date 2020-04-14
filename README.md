@@ -23,4 +23,4 @@ The model was selected while training which had the highest val_accuracy.
 
 ![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output.png)
 ![COVID-19 Negative patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output2.png)
-![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output3.png)
+![COVID-19 Positive patient](https://github.com/rohilrg/COVID19-xray-classifier/blob/master/helper_images/sample_output_3.png)
