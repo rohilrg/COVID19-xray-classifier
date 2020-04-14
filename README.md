@@ -46,5 +46,5 @@ The InceptionV3 model with modified head converged to classifiy the prositive an
 
 The model can be further improved with more COVID19 positive cases for training.
 
-# Note:
+### Note:
 This work was inspired from the work of Hanan Gani work at: https://github.com/hananshafi/covid19-detection
